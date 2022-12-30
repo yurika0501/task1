@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: dimgray;
+}
+
+.header-imag {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.text {
+  padding: 20px 0px 0px 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.service1 {
+  padding-bottom: 30px;
+  border-bottom: solid 1px gainsboro;
+}
+
+.service2 {
+  padding: 30px 0px;
+  border-bottom: solid 1px gainsboro;
+}
+
+.service3 {
+  padding: 30px 0px;
+  border-bottom: solid 1px gainsboro;
+}
+
+.service4 {
+  padding: 30px 0px;
+  border-bottom: solid 1px gainsboro;
+}
